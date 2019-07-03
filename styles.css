@@ -2,3 +2,10 @@
   border: 3px solid purple;
   height: 200px;
 }
+
+.card-2 {
+  background-color: red;
+  height: 400px;
+  width: 300px;
+}
+
